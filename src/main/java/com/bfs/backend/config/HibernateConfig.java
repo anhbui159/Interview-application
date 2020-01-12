@@ -1,4 +1,4 @@
-package com.bfs.authserver.config;
+package com.bfs.backend.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.*;

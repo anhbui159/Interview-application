@@ -1,6 +1,6 @@
-package com.bfs.authserver.service;
+package com.bfs.backend.service;
 
-import com.bfs.authserver.domain.User1;
+import com.bfs.backend.domain.User1;
 
 import java.util.List;
 
